@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApptitudeFormDesigner", "ApptitudeFormDesigner\ApptitudeFormDesigner.csproj", "{84B83B0F-411E-4942-846E-8A24E70F64A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toolbox", "Toolbox\Toolbox.csproj", "{3581F0CD-5B33-40F8-A664-F48D544FE0EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppControls", "AppTextBox\AppControls.csproj", "{B806A40F-2285-481B-9915-14F26C5CD885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B83B0F-411E-4942-846E-8A24E70F64A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B83B0F-411E-4942-846E-8A24E70F64A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B83B0F-411E-4942-846E-8A24E70F64A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B83B0F-411E-4942-846E-8A24E70F64A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3581F0CD-5B33-40F8-A664-F48D544FE0EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3581F0CD-5B33-40F8-A664-F48D544FE0EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3581F0CD-5B33-40F8-A664-F48D544FE0EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3581F0CD-5B33-40F8-A664-F48D544FE0EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B806A40F-2285-481B-9915-14F26C5CD885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B806A40F-2285-481B-9915-14F26C5CD885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B806A40F-2285-481B-9915-14F26C5CD885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B806A40F-2285-481B-9915-14F26C5CD885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

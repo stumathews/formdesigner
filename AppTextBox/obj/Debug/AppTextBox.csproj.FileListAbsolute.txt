@@ -1,0 +1,14 @@
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\formdesigner\AppTextBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\formdesigner\AppTextBox\obj\Debug\AppTextBox.AppTextBox.resources
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\formdesigner\AppTextBox\obj\Debug\AppTextBox.csproj.GenerateResource.Cache
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\formdesigner\AppTextBox\bin\Debug\AppTextBox.dll
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\formdesigner\AppTextBox\bin\Debug\AppTextBox.pdb
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\formdesigner\AppTextBox\obj\Debug\AppTextBox.dll
+C:\Documents and Settings\User\My Documents\Visual Studio 2008\Projects\formdesigner\AppTextBox\obj\Debug\AppTextBox.pdb
+C:\Users\mathst\Documents\Visual Studio 2008\Projects\formdesigner\AppTextBox\bin\Debug\AppTextBox.dll
+C:\Users\mathst\Documents\Visual Studio 2008\Projects\formdesigner\AppTextBox\bin\Debug\AppTextBox.pdb
+C:\Users\mathst\Documents\Visual Studio 2008\Projects\formdesigner\AppTextBox\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mathst\Documents\Visual Studio 2008\Projects\formdesigner\AppTextBox\obj\Debug\AppTextBox.csproj.GenerateResource.Cache
+C:\Users\mathst\Documents\Visual Studio 2008\Projects\formdesigner\AppTextBox\obj\Debug\AppTextBox.dll
+C:\Users\mathst\Documents\Visual Studio 2008\Projects\formdesigner\AppTextBox\obj\Debug\AppTextBox.pdb
+C:\Users\mathst\Documents\Visual Studio 2008\Projects\formdesigner\AppTextBox\obj\Debug\AppTextBox.AppTextBox.resources
